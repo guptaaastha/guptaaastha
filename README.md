@@ -9,7 +9,7 @@
 
 I write artciles on [dev.to/guptaaastha](https://dev.to/guptaaastha)
 
--[Quick Introduction to namespaces in C++](https://dev.to/guptaaastha/quick-introduction-to-namespaces-in-c-2pmg)
--[typedef VS using in type aliases declaration in C++](https://dev.to/guptaaastha/typedef-vs-using-in-type-aliases-declaration-in-c-fm2)
--[Quick Introduction to using in C++](https://dev.to/guptaaastha/quick-introduction-to-using-in-c-4n73)
--[Quick Introduction to typedef in C++](https://dev.to/guptaaastha/quick-introduction-to-typedef-in-c-5362)
+- [Quick Introduction to namespaces in C++](https://dev.to/guptaaastha/quick-introduction-to-namespaces-in-c-2pmg)
+- [typedef VS using in type aliases declaration in C++](https://dev.to/guptaaastha/typedef-vs-using-in-type-aliases-declaration-in-c-fm2)
+- [Quick Introduction to using in C++](https://dev.to/guptaaastha/quick-introduction-to-using-in-c-4n73)
+- [Quick Introduction to typedef in C++](https://dev.to/guptaaastha/quick-introduction-to-typedef-in-c-5362)
